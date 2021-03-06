@@ -17,3 +17,6 @@ Usage:
   3. The default baud rate is 9600.
   Options include: 4800, 9600, 14400, 19200, 38400, 57600, and 115200.
 ```
+
+The Virtual Machine must be stopped and then started for the COM ports to activate.  
+
